@@ -7,7 +7,7 @@ added when the queue gets short, but they must be precise enough to test.
 ## Algorithms And Data
 
 - [x] Stable sorts can compose multi-key ordering.
-- [ ] Binary search needs an explicit boundary convention.
+- [x] Binary search needs an explicit boundary convention.
 - [ ] A heap guarantees the smallest item, not a fully sorted collection.
 - [ ] Breadth-first search finds shortest paths in an unweighted graph.
 - [ ] A set removes duplicates but does not preserve duplicate counts.

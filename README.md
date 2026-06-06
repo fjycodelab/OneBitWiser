@@ -19,6 +19,7 @@ it is not published.
 
 | Date | Idea | Entry | Experiment |
 | --- | --- | --- | --- |
+| 2026-06-06 | Binary search needs an explicit boundary convention | [Read](entries/2026/2026-06-06-binary-search-boundaries.md) | [Run](experiments/2026/2026-06-06-binary_search_boundaries.py) |
 | 2026-06-04 | Stable sorts can compose multi-key ordering | [Read](entries/2026/2026-06-04-stable-sorts-compose.md) | [Run](experiments/2026/2026-06-04-stable_sorts_compose.py) |
 
 ## Run Every Experiment
